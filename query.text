@@ -1,0 +1,36 @@
+What is the total sales for all orders placed by customers from the West region, filtered by products in the Office Supplies category?
+Which customer has made the most purchases (in terms of quantity) across all order lines, considering only products with a sub-category of Paper?
+Can you provide me with a list of customers who have ordered products with a profit margin greater than 15% and are from the Home Office segment, sorted by their age in descending order?
+What is the average sales per quantity for orders placed using the Standard Class shipping mode, filtered by product categories that do not include Office Supplies?
+Which customer has never purchased any products (in terms of zero sales) across all order lines, considering only customers from the United States?
+
+
+
+
+
+salse table query
+
+What are the top-selling products?
+Which order has generated the most sales?
+How many units of OFF-LA-10000081 have been sold?
+What is the total sales for all orders with Order ID CA-2017-140949?
+Which product has a sales value greater than $20?
+
+
+
+customer table query
+
+
+Who are all the customers in our database?
+What is the list of customer IDs and names?
+Can you show me a list of all customers, including their age and region?
+Which customers live in California or Connecticut?
+How many customers are there from the United States?
+
+products table
+
+What products have we sold so far?
+Can you list all product categories and sub-categories?
+Which product has a profit margin greater than 10%?
+How many products have been ordered with the word "Table" in their name?
+What is the average price of all products?
